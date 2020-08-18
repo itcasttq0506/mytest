@@ -2,5 +2,10 @@ aaaaaaaaaaaaaa
 11111111111111	
 bbbbbbbbbbbbbb	
 22222222222222
+<<<<<<< HEAD
 111111111111
 22222222222
+=======
+tttttttttttt
+qqqqqqqqqqqqqqq
+>>>>>>> 57fa4a6e977a543463e2a710bc3ae3df65c61976
